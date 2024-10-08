@@ -1,6 +1,6 @@
 ---
-title: "A report for the Maryland Department of transportation"
-subtitle: "This document is a starter report that fits the branding of the <a href='https://mdot.maryland.gov/'>Maryland Department of Transportation</a>"
+title: "Impacts of Social Media on Muslim Women"
+subtitle: "A summary report on a research project <add more things here>"
 format:
   lumo-html: 
     logo: "logo.png"                             # Optional. Path to a logo displayed above the title
