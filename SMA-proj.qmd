@@ -4,7 +4,7 @@ subtitle: "A summary report on a research project <add more things here>"
 format:
   lumo-html: 
     logo: "logo.png"                             # Optional. Path to a logo displayed above the title
-    github-repo: "https://www.github.com"        # Optional. Adds a github corner at the top right
+    # github-repo: "https://www.github.com"        # Optional. Adds a github corner at the top right
     primary-color: "#a31f37"
     self-contained: true
     is-particlejs-enabled: true                  # Optional: display interactive particles in the document header
