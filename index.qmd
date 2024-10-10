@@ -39,6 +39,28 @@ library(paletteer) # <2>
 
 1. this package provides my favorite `ggplot2` theme: `theme_ipsum()`
 
+## Research Areas
+We divided the research into several categories to analyze as we collected results. This was subject to change during the course of our research, but we finalized the following for our analysis.
+
+### Misinformation of Islam
+
+### Iman and Ibadah
+
+### Ego and pride
+
+### Negative mindset
+
+### Impact of influencers
+
+### Daily living and relationships
+
+### Hijab and modesty
+
+## Primary Research
+
+### Results
+
+### Discussion
 
 ## Session Info
 
